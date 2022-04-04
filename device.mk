@@ -85,7 +85,7 @@ PRODUCT_PACKAGES += \
     multi_init.rc \
     fstab.enableswap \
     fstab.mt6757 \
-    ueventd.qcom.rc \
+    ueventd.mt6757.rc \
 
 # Seccomp
 PRODUCT_COPY_FILES += \
